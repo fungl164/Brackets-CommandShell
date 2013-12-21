@@ -1,12 +1,12 @@
 {
-    "name": "<yourname>.<extensionname>",
-    "title": "<your extension title>",
-    "description": "<fill in description>",
-    "homepage": "https://github.com/<repo>",
+    "name": "fungl164.brackets-command-shell",
+    "title": "Brackets Command Shell",
+    "description": "Command Shell access for Brackets",
+    "homepage": "https://github.com/fungl164/Brackets-CommandShell",
     "version": "0.0.1",
-    "author": "<name etc, url, etc...>",
+    "author": "Luis Fung <fungl164@hotmail.com>",
     "license": "MIT",
     "engines": {
-        "brackets": ">=0.24.0"
+        "brackets": ">=0.34.0"
     }
 }
